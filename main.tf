@@ -13,5 +13,5 @@ provider "aws" {
 }
 
 resource "aws_s3_bucket" "example" {
-  bucket = "hcp-demo-bucket-785486248"
+  bucket = "hcp-demo-bucket-785486"
 }
